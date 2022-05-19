@@ -1,0 +1,5 @@
+repositories:
+  ping360_sonar:
+    type: git
+    url: https://github.com/Rezenders/ping360_sonar.git
+    version: ros2
